@@ -1,2 +1,2 @@
-# PythonAssignment
-Repository for Python assignments
+Assignment for Basic Python concepts
+
